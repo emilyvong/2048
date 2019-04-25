@@ -369,36 +369,36 @@ hr {
       .tile.tile-256 .tile-inner {
         font-size: 20px; } }
   .tile.tile-512 .tile-inner {
-    background: url(https://www.theworktop.com/wp-content/uploads/2018/05/Chinese-Steamed-Egg-Recipe-4.jpg);
+    background: url(https://simg314.magcasa.com/content_images/2014/11/17/74403/1416200333_2933.jpg);
     background-size: cover;
-    color: rgb(0,0,0,0)
-    box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.39683), inset 0 0 0 1px rgba(255, 255, 255, 0.2381);
-    font-size: 20px; }
+    color: rgb(0,0,0,0); }
     @media screen and (max-width: 520px) {
       .tile.tile-512 .tile-inner {
-        font-size: 20px; } }
+        font-size: 5px; } }
   .tile.tile-1024 .tile-inner {
-    background: url(https://www.justonecookbook.com/wp-content/uploads/2019/01/Instant-Pot-Chawanmushi-I-500x500.jpg);
+    background: url(https://hybrisprod.azureedge.net/sys-master-prod/h92/h89/9029577015326/543922_main.jpg_480Wx480H);
     background-size: cover;
-    color: rgb(0,0,0,0)
+    color: rgb(0,0,0,0);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.47619), inset 0 0 0 1px rgba(255, 255, 255, 0.28571);
-    font-size: 20px; }
+    font-size: 5px; }
     @media screen and (max-width: 520px) {
       .tile.tile-1024 .tile-inner {
-        font-size: 20px; } }
+        font-size: 5px; } }
   .tile.tile-2048 .tile-inner {
-    background: url(https://www.maangchi.com/wp-content/uploads/2018/02/roasted-chicken-1.jpg);
+    background: url(https://pixfeeds.com/images/12/370832/1200-57452988-brown-chicken.jpg);
     background-size: cover;
-    color: rgb(0,0,0,0)
+    color: rgb(0,0,0,0);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.55556), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
-    font-size: 20px; }
+    font-size: 5px; }
     @media screen and (max-width: 520px) {
       .tile.tile-2048 .tile-inner {
-        font-size: 20px; } }
+        font-size: 5px; } }
   .tile.tile-super .tile-inner {
     color: #f9f6f2;
-    background: #3c3a32;
-    font-size: 30px; }
+    background: url(https://www.kfc.com.au/sites/default/files/alohadata/images/products/5pc_Original-Recipe_web_mobile.jpg);
+    background-size: cover;
+    color: rgb(0,0,0,0);
+    font-size: 10px; }
     @media screen and (max-width: 520px) {
       .tile.tile-super .tile-inner {
         font-size: 10px; } }
