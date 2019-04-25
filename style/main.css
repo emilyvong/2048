@@ -329,13 +329,13 @@ hr {
     z-index: 10;
     font-size: 55px; }
   .tile.tile-2 .tile-inner {
+    background: url(https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Egg_upright.jpg/1200px-Egg_upright.jpg);
     background-size: cover;
-    color: rgb(0,0,0,0);
-    background: url(https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Egg_upright.jpg/1200px-Egg_upright.jpg);}
+    color: rgb(0,0,0,0); }
   .tile.tile-4 .tile-inner {
+    background: url(https://panlasangpinoy.com/wp-content/uploads/2014/10/how-to-make-hard-boiled-egg.jpg);
     background-size: cover;
-    color: rgb(0,0,0,0);
-    background: url(https://panlasangpinoy.com/wp-content/uploads/2014/10/how-to-make-hard-boiled-egg.jpg); }
+    color: rgb(0,0,0,0); }
   .tile.tile-8 .tile-inner {
     background: url(https://img1.cookinglight.timeinc.net/sites/default/files/styles/4_3_horizontal_-_1200x900/public/image/2017/01/main/pristine-sunny-side-up-eggs.jpg?itok=4GSTJDNE);
     background-size: cover;
